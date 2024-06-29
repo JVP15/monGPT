@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(name='minGPT',
+setup(name='monGPT',
       version='0.0.1',
-      author='Andrej Karpathy',
-      packages=['mingpt'],
-      description='A PyTorch re-implementation of GPT',
+      author='JVP15',
+      packages=['mongpt'],
+      description='A Pokemon team generator based on minGPT',
       license='MIT',
       install_requires=[
             'torch',
